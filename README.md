@@ -38,3 +38,7 @@ http://www.rffuste.com/2016/09/14/cuckoo-sandbox-install-notes-part-1-requisites
 http://www.rffuste.com/2016/09/18/cuckoo-sandbox-install-notes-part-2-installation-and-configuration/
 http://www.rffuste.com/2016/09/24/cuckoo-sandbox-install-notes-part-3-windows-guest-configuration-anb-web-interface/
 http://www.edwiget.name/2012/07/installing-cuckoo-sandbox-in-backtrack-for-malware-analysis/
+
+[Cuckoo Sandbox Installation and Setup]
+
+https://reversing-malware.com/cuckoo-installation-and-setup/
