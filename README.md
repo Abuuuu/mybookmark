@@ -42,3 +42,7 @@ http://www.edwiget.name/2012/07/installing-cuckoo-sandbox-in-backtrack-for-malwa
 [Cuckoo Sandbox Installation and Setup]
 
 https://reversing-malware.com/cuckoo-installation-and-setup/
+
+[malware analysis、Sandbox Principles、Design && Implementation]
+
+http://www.cnblogs.com/LittleHann/p/4460954.html
