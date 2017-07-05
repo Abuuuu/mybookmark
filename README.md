@@ -23,6 +23,8 @@ https://www.proteansec.com/malware-analysis/next-generation-dynamic-analysis-wit
 
 # Docker
 http://bobao.360.cn/learning/detail/4017.html
+https://hub.docker.com/r/grrdocker/grr/
+https://hub.docker.com/r/remnux/mastiff/
 
 
 # Cuckoo Setup
@@ -46,3 +48,9 @@ https://reversing-malware.com/cuckoo-installation-and-setup/
 [malware analysis、Sandbox Principles、Design && Implementation]
 
 http://www.cnblogs.com/LittleHann/p/4460954.html
+
+[Automating Malware Analysis with Cuckoo Sandbox]
+
+https://blog.malwarebytes.com/threat-analysis/2014/04/automating-malware-analysis-with-cuckoo-sandbox/
+
+https://media.blackhat.com/us-13/US-13-Bremer-Mo-Malware-Mo-Problems-Cuckoo-Sandbox-WP.pdf
