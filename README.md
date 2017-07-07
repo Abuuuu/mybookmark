@@ -62,3 +62,10 @@ http://www.cnblogs.com/LittleHann/p/4460954.html
 https://blog.malwarebytes.com/threat-analysis/2014/04/automating-malware-analysis-with-cuckoo-sandbox/
 
 https://media.blackhat.com/us-13/US-13-Bremer-Mo-Malware-Mo-Problems-Cuckoo-Sandbox-WP.pdf
+
+# Malware Collection
+https://github.com/phage-nz/ph0neutria
+
+https://github.com/robbyFux/Ragpicker
+
+https://github.com/botherder/vxcage
